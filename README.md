@@ -35,7 +35,7 @@ Akun berikut digunakan **hanya untuk simulasi prototype**:
 - **Username:** AHMAD  
 - **Password:** 123  
 
-Catatan: Data bersifat dummy dan tidak tersimpan.
+Catatan: Data bersifat Sementara dan tidak tersimpan.
 
 ---
 
