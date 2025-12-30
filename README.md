@@ -40,7 +40,7 @@ Catatan: Data bersifat Sementara dan tidak tersimpan.
 ---
 
 ## 🔗 Link High Fidelity Prototype
-👉 https://stick-exit-01847023.figma.site/
+👉(https://stick-exit-01847023.figma.site/)
 
 ---
 
