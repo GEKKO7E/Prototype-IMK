@@ -20,8 +20,8 @@ export default function LoginPage({ onLogin }: LoginPageProps) {
   const [password, setPassword] = useState("");
 
   // username & password yang valid
-  const VALID_STUDENT_ID = "202410370110821";
-  const VALID_PASSWORD = "admin123";
+  const VALID_STUDENT_ID = "AHMAD";
+  const VALID_PASSWORD = "123";
 
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
